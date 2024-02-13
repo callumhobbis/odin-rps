@@ -1,0 +1,14 @@
+{
+  "name": "odin-rps",
+  "version": "1.0.0",
+  "description": "A simple implementation of Rock Paper Scissors written in JS and played in the browser console. This project was created as part of the Odin Project.",
+  "main": "rps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-prettier": "^9.1.0"
+  }
+}
